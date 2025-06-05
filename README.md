@@ -19,6 +19,7 @@ Este projeto em Power BI analisa o financiamento de um caminhão com foco em:
 ## 🔍 Visualizações
 - Cartões com totais (parcela justa, real, juros, amortização, diferença)
 - Gráficos de pizza e área acumulada
+- Tabela
 
 ## 📎 Autor
 Tathiany Tavares Costa
